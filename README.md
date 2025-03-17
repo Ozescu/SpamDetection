@@ -11,6 +11,7 @@ L'objectif de ce projet est de développer un modèle capable de prédire si un 
 - Chargement et prétraitement des données depuis le fichier **spam.csv**.
 - Transformation des données textuelles en vecteurs numériques avec **CountVectorizer**.
 - Formation d'un modèle de classification utilisant l'algorithme **Naive Bayes** (**MultinomialNB**).
+### To do : 
 - Évaluation de la performance du modèle avec des métriques comme la **précision**, le **rappel**, et la **F-mesure**.
 - Affichage d'une **matrice de confusion** pour visualiser les erreurs du modèle.
 
